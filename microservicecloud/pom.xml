@@ -14,7 +14,7 @@
 		<!-- 保证每次编译的就是java 1.8这个版本 -->
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		<!-- lombok 自动生成get set 方法 -->
 		<lombok.version>1.16.18</lombok.version>
